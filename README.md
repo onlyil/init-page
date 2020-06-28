@@ -1,5 +1,3 @@
-# 初始化新页面 npm script
-
 ## 用法
 
 npm run initPage --{newPage}
